@@ -58,4 +58,3 @@ spectre:qrxf48dgrdkjxllxczek3uweuldtan9nanzjsavk0ak9ynwn0zsayjjh7upez
 ## License
 
 This project is licensed under the MIT License.
-```
